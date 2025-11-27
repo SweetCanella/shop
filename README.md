@@ -7,7 +7,7 @@
 Список из нескольких позиций
 ![](https://github.com/SweetCanella/shop/blob/ede5c88c456a6d2ecffbe6aaf949ac84e9f38db5/screenshots/3.png)
 
-Пометка, что что-либо куплено
+Пометка, что что-либо куплено (нажатие на название позиции)
 ![](https://github.com/SweetCanella/shop/blob/ede5c88c456a6d2ecffbe6aaf949ac84e9f38db5/screenshots/4.png)
 
 Удаление из списка
