@@ -100,7 +100,7 @@ function ShopList() {
                 marginLeft: '10px'
               }}
             >
-              Куплено
+              Удалить
             </button>
           </li>
         ))}
